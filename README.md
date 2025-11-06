@@ -9,7 +9,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 ## Common Core
 
 <table>
-    <thead><tr><td>Milestone 0</td></tr></thead>
+    <thead><tr><th>Milestone 0</th></tr></thead>
     <tbody><tr><td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/libfte.png"/></a></td></tr></tbody>
 </table>
     <table>
