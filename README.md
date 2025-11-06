@@ -9,14 +9,12 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 ## Common Core
 
 <table>
+    <thead><tr><td>Milestone 0</td></tr></thead>
+    <tbody><tr><td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/libfte.png"/></a></td></tr></tbody>
+</table>
+    <table>
     <tr>
-      <td>Milestone 0</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/libfte.png"/></a></td>
-    </tr>
-    <tr>
-      <td colspan="3">Milestone 1</td>
+      <td colspan="5">Milestone 1</td>
     </tr>
     <tr>
       <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/get_next_line/main/images/get_next_linee.png"/></a></td>
