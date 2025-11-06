@@ -64,6 +64,21 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
   </tbody>
 </table>
 
+<table>
+  <tr>
+    <th colspan="5">CPP Modules</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/3ka1tz/cpp05"><img src="https://raw.githubusercontent.com/3ka1tz/cpp05/main/images/CPP05.png"/></a></td>
+    <td><a href="https://github.com/3ka1tz/cpp06"><img src="https://raw.githubusercontent.com/3ka1tz/cpp06/main/images/CPP06.png"/></a></td>
+  </tr>
+</table>
+
 All badges were downloaded from [github.com/ayogun/42-project-badges](https://github.com/ayogun/42-project-badges).
 
 ### Disclaimer
