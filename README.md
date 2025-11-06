@@ -13,36 +13,36 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
       <td>Milestone 0</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/badges/libfte.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/libft/main/images/libfte.png"/></a></td>
     </tr>
     <tr>
-      <td rowspan="3">Milestone 1</td>
+      <td colspan="3">Milestone 1</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/get_next_line/main/images/badges/get_next_linee.png"/></a></td>
-      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/ft_printf/main/images/badges/ft_printfe.png"/></a></td>
-      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/born2beroot/main/images/badges/born2beroote.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/get_next_line/main/images/get_next_linee.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/ft_printf/main/images/ft_printfe.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/born2beroot/main/images/born2beroote.png"/></a></td>
     </tr>
     <tr>
-      <td rowspan="3">Milestone 2</td>
+      <td colspan="3">Milestone 2</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/pipex/main/images/badges/pipexe.png"/></a></td>
-      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/push_swap/main/images/badges/push_swape.png"/></a></td>
-      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/so_long/main/images/badges/so_longe.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/pipex/main/images/pipexe.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/push_swap/main/images/push_swape.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/so_long/main/images/so_longe.png"/></a></td>
     </tr>
     <tr>
-      <td rowspan="2">Milestone 3</td>
+      <td colspan="2">Milestone 3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/philosophers/main/images/badges/philosopherse.png"/></a></td>
-      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/minishell/main/images/badges/minishelle.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/philosophers/main/images/philosopherse.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/minishell/main/images/minishelle.png"/></a></td>
     </tr>
     <tr>
-      <td rowspan="5">Milestone 4</td>
+      <td colspan="5">Milestone 4</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/3ka1tz/net-practice"><img src="https://raw.githubusercontent.com/3ka1tz/net-practice/main/images/badges/netpracticeee.png"/></a></td>
+      <td><a href="https://github.com/3ka1tz/net-practice"><img src="https://raw.githubusercontent.com/3ka1tz/net-practice/main/images/netpracticeee.png"/></a></td>
       <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/badges/cub3de.png"/></a></td>
     </tr>
   <tr>
