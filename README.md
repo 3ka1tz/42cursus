@@ -62,7 +62,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 </table>
 
 ## Milestone 4
-<table width="800">
+<table>
     <thead>
         <tr>
             <th>Project</th>
@@ -91,6 +91,16 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
             <td>CPP Module 02</td>
             <td>Orthodox Canonical class form and fixed-point numbers</td>
             <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
+        </tr>
+        <tr>
+            <td>CPP Module 03</td>
+            <td>Placeholder</td>
+            <td><a href="https://github.com/3ka1tz/cpp03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
+        </tr>
+        <tr>
+            <td>CPP Module 04</td>
+            <td>Placeholder</td>
+            <td><a href="https://github.com/3ka1tz/cpp04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
         </tr>
     </tbody>
 </table>
