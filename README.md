@@ -19,12 +19,12 @@ Every project repo has everything needed to be completed. I added some images, s
         <tr>
             <td><a href="https://github.com/3ka1tz/netpractice">NetPractice</a></td>
             <td>Placeholder</td>
-            <td><a href="https://github.com/3ka1tz/netpractice"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/netpracticee.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/netpractice"><img src="https://raw.githubusercontent.com/3ka1tz/netpractice/main/images/netpracticee.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cub3d">Cub3D</a></td>
             <td>Placeholder</td>
-            <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/cub3de.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/cub3de.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-00">CPP Module 00</a></td>
