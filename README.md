@@ -19,7 +19,7 @@ Every project repo has everything needed to be completed. I added some images, s
         <tr>
             <td><a href="https://github.com/3ka1tz/netpractice">NetPractice</a></td>
             <td>Placeholder</td>
-            <td><a href="https://github.com/3ka1tz/netpractice"><img src="https://raw.githubusercontent.com/3ka1tz/net_practice/main/images/netpracticee.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/net_practice/main/images/netpracticee.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cub3d">Cub3D</a></td>
