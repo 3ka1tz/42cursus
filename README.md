@@ -17,22 +17,22 @@ Every project repo has everything needed to be completed. I added some images, s
     </thead>
     <tbody>
         <tr>
-            <td>[NetPractice](https://github.com/3ka1tz/netpractice)</td>
+            <td><a href="https://github.com/3ka1tz/netpractice">NetPractice</a></td>
             <td>Placeholder</td>
             <td><a href="https://github.com/3ka1tz/netpractice"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/netpracticee.png"/></a></td>
         </tr>
         <tr>
-            <td>[Cub3D](https://github.com/3ka1tz/cub3d)</td>
+            <td><a href="https://github.com/3ka1tz/cub3d">Cub3D</a></td>
             <td>Placeholder</td>
             <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/cub3de.png"/></a></td>
         </tr>
         <tr>
-            <td>[CPP Module 00](https://github.com/3ka1tz/cpp00)</td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-00">CPP Module 00</a></td>
             <td>Introduction to C++ (C++98 standard)</td>
-            <td><a href="https://github.com/3ka1tz/cpp00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
         </tr>
         <tr>
-            <td>[CPP Module 01](https://github.com/3ka1tz/cpp01)</td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-01">CPP Module 01</a></td>
             <td>
                 <ul>
                     <li>Stack vs Heap allocation</li>
@@ -40,22 +40,22 @@ Every project repo has everything needed to be completed. I added some images, s
                     <li>Pointers to member functions</li>
                 </ul>
             </td>
-            <td><a href="https://github.com/3ka1tz/cpp01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
         </tr>
         <tr>
-            <td>[CPP Module 02](https://github.com/3ka1tz/cpp02)</td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-02">CPP Module 02</a></td>
             <td>Orthodox Canonical class form and fixed-point numbers</td>
-            <td><a href="https://github.com/3ka1tz/cpp02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
         </tr>
         <tr>
-            <td>[CPP Module 03](https://github.com/3ka1tz/cpp03)</td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-03">CPP Module 03</a></td>
             <td>Placeholder</td>
-            <td><a href="https://github.com/3ka1tz/cpp03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
         </tr>
         <tr>
-            <td>[CPP Module 04](https://github.com/3ka1tz/cpp04)</td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-04">CPP Module 04</a></td>
             <td>Placeholder</td>
-            <td><a href="https://github.com/3ka1tz/cpp04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
+            <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/images/CPP04.png"/></a></td>
         </tr>
     </tbody>
 </table>
