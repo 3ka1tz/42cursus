@@ -17,44 +17,38 @@ Every project repo has everything needed to be completed. I added some images, s
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/3ka1tz/netpractice">NetPractice</a></td>
-            <td>Placeholder</td>
+            <td><a href="https://github.com/3ka1tz/netpractice">Net Practice</a></td>
+            <td>Basics of networking with TCP/IP addressing exercises in a Cisco Packet Tracer-style environment.</td>
             <td><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/net_practice/main/images/netpracticee.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cub3d">Cub3D</a></td>
-            <td>Placeholder</td>
+            <td>Ray casting FPS (First Person Shooter) video game, inspired by Wolfestein 3D (1992) and DOOM (1993), made using just MiniLibX as the graphics and input library.</td>
             <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/cub3de.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-00">CPP Module 00</a></td>
-            <td>Introduction to C++ (C++98 standard)</td>
+            <td>Introduction to C++ (C++98 standard).</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-00"><img src="https://raw.githubusercontent.com/3ka1tz/cpp00/main/images/CPP00.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-01">CPP Module 01</a></td>
-            <td>
-                <ul>
-                    <li>Stack vs Heap allocation</li>
-                    <li>References</li>
-                    <li>Pointers to member functions</li>
-                </ul>
-            </td>
+            <td>Stack vs heap allocation, references and pointers to member functions.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-01"><img src="https://raw.githubusercontent.com/3ka1tz/cpp01/main/images/CPP01.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-02">CPP Module 02</a></td>
-            <td>Orthodox Canonical class form and fixed-point numbers</td>
+            <td>Orthodox Canonical class form and fixed-point numbers.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-02"><img src="https://raw.githubusercontent.com/3ka1tz/cpp02/main/images/CPP02.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-03">CPP Module 03</a></td>
-            <td>Placeholder</td>
+            <td>Inheritance.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-03"><img src="https://raw.githubusercontent.com/3ka1tz/cpp03/main/images/CPP03.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-04">CPP Module 04</a></td>
-            <td>Placeholder</td>
+            <td>Polymorphism and abstract classes.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/CPP04.png"/></a></td>
         </tr>
     </tbody>
