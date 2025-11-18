@@ -23,7 +23,7 @@ Every project repo has everything needed to be completed. I added some images, s
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cub3d">Cub3D</a></td>
-            <td>Ray casting FPS (First Person Shooter) video game, inspired by "Wolfestein 3D (1992)" and DOOM (1993), made using just MiniLibX as the graphics and input library.</td>
+            <td>Ray casting FPS (First Person Shooter) video game, inspired by Wolfestein 3D (1992) and DOOM (1993), made using just MiniLibX as the graphics and input library.</td>
             <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/cub3d/main/images/cub3de.png"/></a></td>
         </tr>
         <tr>
