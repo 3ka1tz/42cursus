@@ -48,7 +48,7 @@ Every project repo has everything needed to be completed. I added some images, s
         </tr>
         <tr>
             <td><a href="https://github.com/3ka1tz/cpp-module-04">CPP Module 04</a></td>
-            <td>Polymorphism and abstract classes.</td>
+            <td>Subtype Polymorphism, Abstract Classes and Interfaces.</td>
             <td><a href="https://github.com/3ka1tz/cpp-module-04"><img src="https://raw.githubusercontent.com/3ka1tz/cpp04/main/CPP04.png"/></a></td>
         </tr>
     </tbody>
