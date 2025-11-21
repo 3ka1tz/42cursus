@@ -1,4 +1,4 @@
-# 42 Common Core
+# Common Core
 
 This repo contains an index of all the projects I've completed as part of the 42 common core curriculum. You can find me on the 42 intranet under the username [elopez-u](https://profile-v3.intra.42.fr/users/elopez-u).
 
