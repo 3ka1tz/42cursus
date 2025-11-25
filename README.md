@@ -33,6 +33,24 @@ Every project repo has everything needed to be completed. I added some images, s
         <td>This project aims to introduce you to the wonderful world of virtualization.</td>
         <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/born2beroot/main/images/born2beroote.png"/></a></td>
     </tr>
+    <tr>
+        <th colspan="3">Rank 2</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/so_long">so_long</a></td>
+        <td>This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.</td>
+        <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/so_long/main/images/so_longe.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/push_swap">push_swap</a></td>
+        <td>This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.</td>
+        <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/push_swap/main/images/push_swape.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/pipex">pipex</a></td>
+        <td>This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
+        <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/pipex/main/images/pipexe.png"/></a></td>
+    </tr>
 </table>
 
 ## Milestone 4
