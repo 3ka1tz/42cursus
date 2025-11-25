@@ -51,6 +51,19 @@ Every project repo has everything needed to be completed. I added some images, s
         <td>This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
         <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/pipex/main/images/pipexe.png"/></a></td>
     </tr>
+    <tr>
+        <th colspan="3">Rank 3</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/philosophers">Philosophers</a></td>
+        <td>This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.</td>
+        <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/philosophers/main/images/philosopherse.png"/></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3ka1tz/minishell">minishell</a></td>
+        <td>The objective of this project is for you to create a simple shell.</td>
+        <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/minishell/main/images/minishelle.png"/></a></td>
+    </tr>
 </table>
 
 ## Milestone 4
