@@ -5,11 +5,11 @@
         <th>Description</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/3ka1tz/C-Piscine-C-00">C Piscine C 00</a></td>
+        <td><a href="https://github.com/3ka1tz/c-piscine-c-00">c-piscine-c-00</a></td>
         <td>This module is an introduction to C programming. You will learn how the write function works, as well as how loops operate.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/3ka1tz/C-Piscine-C-01">C Piscine C 01</a></td>
+        <td><a href="https://github.com/3ka1tz/c-piscine-c-01">c-piscine-c-01</a></td>
         <td>This module introduces C programming. You will enhance your skills in using loops more advancedly than in the previous module.</td>
     </tr>
 </table>
